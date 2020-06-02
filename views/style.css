@@ -1,0 +1,50 @@
+body{
+    padding-bottom: 50px;
+}
+
+#btn2,#btn1,#btn3,#btn4{
+ margin-top: 2em;
+ font-size: 2em;
+ align-content: center;
+}
+.d-flex{
+    height: 15em;
+    margin-bottom: 40px;
+}
+#timer{
+    font-size: 3em;
+    font-weight: 1000;
+    font-family: sans-serif;
+    text-align: center;
+}
+h1,h4{
+    text-align: center;
+}
+.card{
+    height:225px;
+    width: 225px;
+}
+#btt1{
+    display: none;
+}
+.controls{
+    text-align: center;
+}
+#btn2,#btn3,#btn4{
+ display:none;
+}
+.laps,.stopwatch{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.laps{
+    margin-bottom: 10px;
+}
+#playlist{
+    display:none;
+    text-align: center;
+}
+/* .stopwatch{
+    margin-top: 10px;
+} */
