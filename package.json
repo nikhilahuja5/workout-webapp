@@ -18,5 +18,8 @@
     "googleapis": "^51.0.0",
     "mongoose": "^5.9.13",
     "nodemon": "^2.0.3"
-  }
+  },
+  "devDependencies": {
+  "websocket-extensions": ">=0.1.4"
+}
 }
